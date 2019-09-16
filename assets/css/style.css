@@ -91,13 +91,15 @@ a:link {
     float:left;
     width:910px;
     height:350px;
-    position:fixed;
+    
     top:200px;
     left:200px;
     background:white;
     padding: 0 25px 25px 25px;
     font-family:Arial, Helvetica, sans-serif;
     color:#777777;
+    margin-top: 200px;
+    margin-left: 200px;
 }
 .clearfix::after {
     content: " ";
@@ -106,7 +108,7 @@ a:link {
   }
 img{
     float:left;
-    padding: 10px 25px 25px 0px;
+    padding: 5px 25px 5px 0px;
  
 }
 p{

@@ -90,14 +90,14 @@ a:link {
 .square{
     float:left;
     width:910px;
-    height:530px;
+    height:515px;
     top:130px;
     left:200px;
     background:white;
     padding: 0 25px 25px 25px;
     font-family:Arial, Helvetica, sans-serif;
     color:#777777;
-    margin-top: 150px;
+    margin-top: 130px;
     margin-left: 200px;
 }
 .clearfix::after {
@@ -140,7 +140,7 @@ input.message{
 .tiles{
   width:900px;
   height:300px;
-  margin:0 75px 0 0;
+  margin:0 25px 0 30px;
 }
 .tile{
   float: left;
